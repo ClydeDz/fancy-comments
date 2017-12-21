@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyComments", "FancyComments\FancyComments.csproj", "{B54EFB93-E854-44E7-8676-87B1A9FD7ECC}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FancyComments.Web", "..\docs\FancyComments.Web\", "{CD84FD30-FB3D-4A55-85DE-718B1FDDF65F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64452"
+		Debug.AspNetCompiler.PhysicalPath = "..\docs\FancyComments.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64452\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64452"
+		Release.AspNetCompiler.PhysicalPath = "..\docs\FancyComments.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64452\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64452"
+		SlnRelativePath = "..\docs\FancyComments.Web\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54EFB93-E854-44E7-8676-87B1A9FD7ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54EFB93-E854-44E7-8676-87B1A9FD7ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54EFB93-E854-44E7-8676-87B1A9FD7ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54EFB93-E854-44E7-8676-87B1A9FD7ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD84FD30-FB3D-4A55-85DE-718B1FDDF65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD84FD30-FB3D-4A55-85DE-718B1FDDF65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD84FD30-FB3D-4A55-85DE-718B1FDDF65F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD84FD30-FB3D-4A55-85DE-718B1FDDF65F}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B81F763-A5E2-4E01-BB61-99257685373B}
+	EndGlobalSection
+EndGlobal
