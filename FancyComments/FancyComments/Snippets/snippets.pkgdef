@@ -3,3 +3,6 @@
 
 [$RootKey$\Languages\CodeExpansions\JavaScript\Paths]
 "JavaScript Fancy Comments"="$PackageFolder$\JavaScript Fancy Comments"
+
+[$RootKey$\Languages\CodeExpansions\HTML\Paths]
+"HTML Fancy Comments"="$PackageFolder$\HTML Fancy Comments"
