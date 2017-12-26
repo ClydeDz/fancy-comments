@@ -56,6 +56,8 @@
     <Content Include="Snippets\HTML Fancy Comments\Metadata\author.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <None Include="Resources\readme.md" />
+    <Content Include="Snippets\JavaScript Fancy Comments\Metadata\jssafe.snippet" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
