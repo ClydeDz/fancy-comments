@@ -1,0 +1,25 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Add a NOTE item</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>fc-note</Shortcut>
+        <Description>Code snippet that adds a single NOTE item in the page.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>noteDescription</ID>
+                <ToolTip>Enter a suitable NOTE description.</ToolTip>
+                <Default>Found this while refactoring.</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="HTML">
+<![CDATA[
+<!-- NOTE: $noteDescription$ -->
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

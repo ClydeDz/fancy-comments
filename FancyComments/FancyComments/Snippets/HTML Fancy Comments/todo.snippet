@@ -1,0 +1,25 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Add a TODO item</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>fc-todo</Shortcut>
+        <Description>Code snippet that adds a single TODO item in the page.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>todoDescription</ID>
+                <ToolTip>Enter a suitable TODO description.</ToolTip>
+                <Default>Complete this block before end of day.</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="HTML">
+<![CDATA[
+<!-- TODO: $todoDescription$ -->
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>
