@@ -1,0 +1,45 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Metadata section</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>fc-meta</Shortcut>
+        <Description>Code snippet to add a little metadata section in the file. Will include description of the file, authors name and contact and the date this file was created.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>description</ID>
+                <ToolTip>Enter a suitable description for this file.</ToolTip>
+                <Default>Home page for Contosso.</Default>
+            </Literal>
+            <Literal>
+                <ID>author</ID>
+                <ToolTip>Name of the author of this file.</ToolTip>
+                <Default>John Smith</Default>
+            </Literal>
+            <Literal>
+                <ID>contact</ID>
+                <ToolTip>Contact information of the author of this file.</ToolTip>
+                <Default>john.smith@contosso.com</Default>
+            </Literal>
+            <Literal>
+                <ID>date</ID>
+                <ToolTip>Creation date of this file.</ToolTip>
+                <Default>01 January 2018</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="HTML">
+            <![CDATA[
+<!--
+ -- $description$
+ -- Author: $author$
+ -- Contact: $contact$
+ -- Date: $date$
+ -->
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

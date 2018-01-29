@@ -1,0 +1,25 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Add a BUG item</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>fc-bug</Shortcut>
+        <Description>Code snippet that adds a single BUG item in the page.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>bugDescription</ID>
+                <ToolTip>Enter a suitable BUG description.</ToolTip>
+                <Default>Found this while refactoring.</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="HTML">
+<![CDATA[
+<!-- BUG: $bugDescription$ -->
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

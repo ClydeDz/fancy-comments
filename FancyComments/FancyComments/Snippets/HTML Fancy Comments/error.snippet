@@ -1,0 +1,25 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Add a ERROR item</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>fc-error</Shortcut>
+        <Description>Code snippet that adds a single ERROR item in the page.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>errorDescription</ID>
+                <ToolTip>Enter a suitable ERROR description.</ToolTip>
+                <Default>Found this while refactoring.</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="HTML">
+<![CDATA[
+<!-- ERROR: $errorDescription$ -->
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

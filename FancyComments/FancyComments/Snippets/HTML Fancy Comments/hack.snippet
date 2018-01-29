@@ -1,0 +1,25 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Add a HACK item</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>fc-hack</Shortcut>
+        <Description>Code snippet that adds a single HACK item in the page.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>hackDescription</ID>
+                <ToolTip>Enter a suitable HACK description.</ToolTip>
+                <Default>Need to redefine the logic here.</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="HTML">
+<![CDATA[
+<!-- HACK: $hackDescription$ -->
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>
