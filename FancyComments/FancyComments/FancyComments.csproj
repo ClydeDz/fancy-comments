@@ -55,19 +55,72 @@
     <None Include="readme.md" />
     <None Include="Resources\readme.md" />
     <Content Include="Snippets\JavaScript Fancy Comments\Metadata\jssafe.snippet" />
-    <None Include="Snippets\HTML Fancy Comments\apache.snippet" />
-    <None Include="Snippets\HTML Fancy Comments\bug.snippet" />
-    <None Include="Snippets\HTML Fancy Comments\copyright.snippet" />
-    <None Include="Snippets\HTML Fancy Comments\error.snippet" />
-    <None Include="Snippets\HTML Fancy Comments\gnugplv3.snippet" />
-    <None Include="Snippets\HTML Fancy Comments\hack.snippet" />
-    <None Include="Snippets\HTML Fancy Comments\Metadata\changelog.snippet" />
-    <None Include="Snippets\HTML Fancy Comments\Metadata\meta.snippet" />
-    <None Include="Snippets\HTML Fancy Comments\ml.snippet" />
-    <None Include="Snippets\HTML Fancy Comments\note.snippet" />
-    <None Include="Snippets\HTML Fancy Comments\review.snippet" />
-    <None Include="Snippets\HTML Fancy Comments\sl.snippet" />
-    <None Include="Snippets\HTML Fancy Comments\todo.snippet" />
+    <Content Include="Snippets\HTML Fancy Comments\License\apache.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\bug.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\License\ccbync40.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\License\ccbysa40.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\License\ccbynd40.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\License\copyright.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\error.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\License\ccby40.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\License\gnugplv3.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\hack.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\Metadata\madewithlovein.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\Metadata\changelog.snippet">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\Metadata\metasingle.snippet">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\Metadata\meta.snippet">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\Metadata\madewithloveby.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\steps.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\ml.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\note.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\review.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\sl.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML Fancy Comments\todo.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>

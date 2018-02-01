@@ -1,9 +1,9 @@
 ﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
     <Header>
-        <Title>Multi line comment</Title>
+        <Title>Made with love by</Title>
         <Author>Clyde D'Souza</Author>
-        <Shortcut>fc-ml</Shortcut>
-        <Description>Code snippet that adds a multi line comment in the page.</Description>
+        <Shortcut>fc-madewloveby</Shortcut>
+        <Description>Adds a 'Made with love by...' comment.</Description>
         <SnippetTypes>
             <SnippetType>Expansion</SnippetType>
         </SnippetTypes>
@@ -11,16 +11,14 @@
     <Snippet>
         <Declarations>
             <Literal>
-                <ID>multiLineComment</ID>
-                <ToolTip>Enter a suitable multi line comment here.</ToolTip>
-                <Default>Enter a suitable multi line comment here.</Default>
+                <ID>author</ID>
+                <ToolTip>Enter the authors name here.</ToolTip>
+                <Default>John Smith.</Default>
             </Literal>
         </Declarations>
         <Code Language="HTML">
 <![CDATA[
-<!-- 
-$multiLineComment$ 
--->
+<!-- Made with ❤️ by $author$-->
 $end$]]>
         </Code>
     </Snippet>
