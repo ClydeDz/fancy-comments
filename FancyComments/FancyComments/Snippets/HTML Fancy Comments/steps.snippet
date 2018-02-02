@@ -1,9 +1,9 @@
 ﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
     <Header>
-        <Title>Multi line comment</Title>
+        <Title>Inserts a steps block suitable for instructions</Title>
         <Author>Clyde D'Souza</Author>
-        <Shortcut>fc-ml</Shortcut>
-        <Description>Code snippet that adds a multi line comment in the page.</Description>
+        <Shortcut>fc-steps</Shortcut>
+        <Description>Inserts a steps block suitable for instructions in the page.</Description>
         <SnippetTypes>
             <SnippetType>Expansion</SnippetType>
         </SnippetTypes>
@@ -11,19 +11,19 @@
     <Snippet>
         <Declarations>
             <Literal>
-                <ID>multiLineComment</ID>
-                <ToolTip>Enter a suitable multi line comment here.</ToolTip>
-                <Default>Enter a suitable multi line comment here.</Default>
+                <ID>step1</ID>
+                <ToolTip>Enter a suitable instruction for step 1.</ToolTip>
+                <Default>This is step 1.</Default>
             </Literal>
         </Declarations>
         <Code Language="HTML">
 <![CDATA[
 <!-- 
-Step1: $multiLineComment$
+Step1: $step1$
 
-Step2: $multiLineComment$ 
+Step2: $step2$ 
 
-Step3: $multiLineComment$ 
+Step3: $step3$ 
 -->
 $end$]]>
         </Code>
