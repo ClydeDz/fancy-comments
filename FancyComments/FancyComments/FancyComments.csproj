@@ -58,7 +58,7 @@
     <Content Include="Snippets\HTML Fancy Comments\License\apache.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\HTML Fancy Comments\bug.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Task List\bug.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="Snippets\HTML Fancy Comments\License\ccbync40.snippet">
@@ -73,7 +73,7 @@
     <Content Include="Snippets\HTML Fancy Comments\License\copyright.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\HTML Fancy Comments\error.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Task List\error.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="Snippets\HTML Fancy Comments\License\ccby40.snippet">
@@ -82,7 +82,7 @@
     <Content Include="Snippets\HTML Fancy Comments\License\gnugplv3.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\HTML Fancy Comments\hack.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Task List\hack.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="Snippets\HTML Fancy Comments\Metadata\madewithlovein.snippet">
@@ -103,24 +103,28 @@
     <Content Include="Snippets\HTML Fancy Comments\Metadata\madewithloveby.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\HTML Fancy Comments\steps.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Basics\steps.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\HTML Fancy Comments\ml.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Basics\ml.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\HTML Fancy Comments\note.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Task List\note.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\HTML Fancy Comments\review.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Task List\review.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\HTML Fancy Comments\sl.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Basics\sl.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\HTML Fancy Comments\todo.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Task List\todo.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <Content Include="Snippets\HTML Fancy Comments\Basics\ifcond.snippet" />
+    <Content Include="Snippets\HTML Fancy Comments\Basics\ifnotie.snippet" />
+    <Content Include="Snippets\HTML Fancy Comments\Basics\ifgtie.snippet" />
+    <Content Include="Snippets\HTML Fancy Comments\Basics\ifltie.snippet" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>

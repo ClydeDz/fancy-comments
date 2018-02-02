@@ -1,0 +1,32 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>If-less-than block for IE browsers</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>fc-ifltie</Shortcut>
+        <Description>Inserts a IF code block in comments to execute a particular code only the detected IE browser version is lesser than the specified IE browser version.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+          <Literal>
+            <ID>ieVersion</ID>
+            <ToolTip>Enter the required IE version.</ToolTip>
+            <Default>9</Default>
+          </Literal>
+            <Literal>
+                <ID>bodyToExecute</ID>
+                <ToolTip>Enter the required content if the condition is satified.</ToolTip>
+                <Default>According to the conditional comment, this body will be displayed</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="HTML">
+<![CDATA[
+<!--[if lt IE $ieVersion$]>
+$bodyToExecute$
+<![endif]-->
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

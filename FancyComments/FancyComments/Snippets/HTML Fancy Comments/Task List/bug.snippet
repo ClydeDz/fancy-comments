@@ -1,9 +1,9 @@
 ﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
     <Header>
-        <Title>Insert a multi-line comment</Title>
+        <Title>Add a BUG item</Title>
         <Author>Clyde D'Souza</Author>
-        <Shortcut>fc-ml</Shortcut>
-        <Description>Adds a multi-line comment block in the page.</Description>
+        <Shortcut>fc-bug</Shortcut>
+        <Description>Inserts a single BUG item in the page that can then be seen in the task list.</Description>
         <SnippetTypes>
             <SnippetType>Expansion</SnippetType>
         </SnippetTypes>
@@ -11,16 +11,14 @@
     <Snippet>
         <Declarations>
             <Literal>
-                <ID>multiLineComment</ID>
-                <ToolTip>Enter a suitable multi line comment here.</ToolTip>
-                <Default>Enter a suitable multi line comment here.</Default>
+                <ID>bugDescription</ID>
+                <ToolTip>Enter a suitable description for this BUG item.</ToolTip>
+                <Default>Found this while refactoring.</Default>
             </Literal>
         </Declarations>
         <Code Language="HTML">
 <![CDATA[
-<!-- 
-$multiLineComment$ 
--->
+<!-- BUG: $bugDescription$ -->
 $end$]]>
         </Code>
     </Snippet>

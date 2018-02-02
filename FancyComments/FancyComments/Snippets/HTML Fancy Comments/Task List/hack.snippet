@@ -1,9 +1,9 @@
 ﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
     <Header>
-        <Title>Add an ERROR item</Title>
+        <Title>Add a HACK item</Title>
         <Author>Clyde D'Souza</Author>
-        <Shortcut>fc-error</Shortcut>
-        <Description>Adds a single ERROR item in the page which can then be seen in the task list.</Description>
+        <Shortcut>fc-hack</Shortcut>
+        <Description>Inserts a single HACK item in the page which can then be seen in the task list.</Description>
         <SnippetTypes>
             <SnippetType>Expansion</SnippetType>
         </SnippetTypes>
@@ -11,14 +11,14 @@
     <Snippet>
         <Declarations>
             <Literal>
-                <ID>errorDescription</ID>
-                <ToolTip>Enter a suitable description for this ERROR item.</ToolTip>
-                <Default>Found this while refactoring.</Default>
+                <ID>hackDescription</ID>
+                <ToolTip>Enter a suitable description for this HACK item.</ToolTip>
+                <Default>Need to redefine the logic here.</Default>
             </Literal>
         </Declarations>
         <Code Language="HTML">
 <![CDATA[
-<!-- ERROR: $errorDescription$ -->
+<!-- HACK: $hackDescription$ -->
 $end$]]>
         </Code>
     </Snippet>

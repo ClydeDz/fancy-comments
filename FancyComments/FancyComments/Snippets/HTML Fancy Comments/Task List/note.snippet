@@ -1,9 +1,9 @@
 ﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
     <Header>
-        <Title>Add a REVIEW item</Title>
+        <Title>Add a NOTE item</Title>
         <Author>Clyde D'Souza</Author>
-        <Shortcut>fc-review</Shortcut>
-        <Description>Adds a single REVIEW item in the page which can then potentially be seen in task list.</Description>
+        <Shortcut>fc-note</Shortcut>
+        <Description>Inserts a single NOTE item in the page which could then potentially be seen in the task list.</Description>
         <SnippetTypes>
             <SnippetType>Expansion</SnippetType>
         </SnippetTypes>
@@ -11,14 +11,14 @@
     <Snippet>
         <Declarations>
             <Literal>
-                <ID>reviewDescription</ID>
-                <ToolTip>Enter a suitable description for this REVIEW item.</ToolTip>
+                <ID>noteDescription</ID>
+                <ToolTip>Enter a suitable description for the NOTE item.</ToolTip>
                 <Default>Found this while refactoring.</Default>
             </Literal>
         </Declarations>
         <Code Language="HTML">
 <![CDATA[
-<!-- REVIEW: $reviewDescription$ -->
+<!-- NOTE: $noteDescription$ -->
 $end$]]>
         </Code>
     </Snippet>
