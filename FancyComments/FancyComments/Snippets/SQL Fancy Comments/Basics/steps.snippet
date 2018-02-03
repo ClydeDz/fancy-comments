@@ -1,0 +1,31 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Inserts a steps block suitable for instructions</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>fc-steps</Shortcut>
+        <Description>Inserts a steps block suitable for instructions in the file.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>step1</ID>
+                <ToolTip>Enter a suitable instruction for step 1.</ToolTip>
+                <Default>This is step 1.</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="SQL_SSDT">
+<![CDATA[
+/*
+Step1: $step1$
+
+Step2: $step2$ 
+
+Step3: $step3$ 
+*/
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

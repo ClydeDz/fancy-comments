@@ -3,7 +3,7 @@
         <Title>Changelog table</Title>
         <Author>Clyde D'Souza</Author>
         <Shortcut>fc-metachangelog</Shortcut>
-        <Description>Inserts a changelog table in the page.</Description>
+        <Description>Inserts a changelog table in the file.</Description>
         <SnippetTypes>
             <SnippetType>Expansion</SnippetType>
         </SnippetTypes>
@@ -31,15 +31,15 @@
                 <Default>01 January 2018</Default>
             </Literal>
         </Declarations>
-        <Code Language="HTML">
+        <Code Language="SQL_SSDT">
             <![CDATA[
-<!--
+/*
 $description$
 
 Date    Author      Change description
------------------------------------------
+***************************************
 $date$  $author$    $changedesc$
--->
+*/
 $end$]]>
         </Code>
     </Snippet>

@@ -1,8 +1,19 @@
-﻿; Replace "JavaScript" with any of the supported languages
-; Languages: "Basic", "C/C++", "CSharp", "CSS", "HTML", "JavaScript", "SQL_SSDT", "XML"
+﻿; Languages: "Basic", "C/C++", "CSharp", "CSS", "HTML", "JavaScript", "SQL_SSDT", "XML"
 
 [$RootKey$\Languages\CodeExpansions\JavaScript\Paths]
 "JavaScript Fancy Comments"="$PackageFolder$\JavaScript Fancy Comments"
 
 [$RootKey$\Languages\CodeExpansions\HTML\Paths]
 "HTML Fancy Comments"="$PackageFolder$\HTML Fancy Comments"
+
+[$RootKey$\Languages\CodeExpansions\SQL_SSDT\Paths]
+"SQL Fancy Comments"="$PackageFolder$\SQL Fancy Comments"
+
+[$RootKey$\Languages\CodeExpansions\CSS\Paths]
+"CSS Fancy Comments"="$PackageFolder$\CSS Fancy Comments"
+
+[$RootKey$\Languages\CodeExpansions\CSharp\Paths]
+"CSharp Fancy Comments"="$PackageFolder$\CSharp Fancy Comments"
+
+[$RootKey$\Languages\CodeExpansions\CSharp\Paths]
+"XML Fancy Comments"="$PackageFolder$\XML Fancy Comments"

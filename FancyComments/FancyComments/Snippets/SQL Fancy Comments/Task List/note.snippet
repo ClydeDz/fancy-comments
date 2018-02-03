@@ -1,0 +1,25 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Add a NOTE item</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>fc-note</Shortcut>
+        <Description>Inserts a single NOTE item in the page which could then potentially be seen in the task list.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>noteDescription</ID>
+                <ToolTip>Enter a suitable description for the NOTE item.</ToolTip>
+                <Default>Found this while refactoring.</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="SQL_SSDT">
+<![CDATA[
+-- NOTE: $noteDescription$
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

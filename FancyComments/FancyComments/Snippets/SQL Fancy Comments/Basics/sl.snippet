@@ -1,9 +1,9 @@
 ﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
     <Header>
-        <Title>Made with love by</Title>
+        <Title>Insert a single-line comment</Title>
         <Author>Clyde D'Souza</Author>
-        <Shortcut>fc-madewloveby</Shortcut>
-        <Description>Inserts a 'Made with love by...' comment.</Description>
+        <Shortcut>fc-sl</Shortcut>
+        <Description>Inserts a single-line comment in the file.</Description>
         <SnippetTypes>
             <SnippetType>Expansion</SnippetType>
         </SnippetTypes>
@@ -11,14 +11,14 @@
     <Snippet>
         <Declarations>
             <Literal>
-                <ID>author</ID>
-                <ToolTip>Enter the authors name here.</ToolTip>
-                <Default>John Smith.</Default>
+                <ID>singleLineComment</ID>
+                <ToolTip>Enter a suitable single-line comment here.</ToolTip>
+                <Default>Enter a suitable single-line comment here.</Default>
             </Literal>
         </Declarations>
-        <Code Language="HTML">
+        <Code Language="SQL_SSDT">
 <![CDATA[
-<!-- Made with <3 by $author$-->
+-- $singleLineComment$
 $end$]]>
         </Code>
     </Snippet>

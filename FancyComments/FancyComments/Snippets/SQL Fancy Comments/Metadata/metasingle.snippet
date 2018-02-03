@@ -1,0 +1,35 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Single metadata line</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>fc-metasingle</Shortcut>
+        <Description>Inserts a single line comment containing the product name, a copyright symbol, the authors name and the year.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>productName</ID>
+                <ToolTip>Enter the product/site name.</ToolTip>
+                <Default>Contosso.com</Default>
+            </Literal>
+            <Literal>
+                <ID>companyOrName</ID>
+                <ToolTip>Name of the company/author of this file.</ToolTip>
+                <Default>John Smith</Default>
+            </Literal>
+            <Literal>
+                <ID>year</ID>
+                <ToolTip>Year of creation.</ToolTip>
+                <Default>2018</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="SQL_SSDT">
+            <![CDATA[
+-- $productName$ (c) $year$ $companyOrName$
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>
