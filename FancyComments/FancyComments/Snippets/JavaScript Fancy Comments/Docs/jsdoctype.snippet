@@ -1,0 +1,25 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>JS Doc comments for a variable</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>fc-jsdoctype</Shortcut>
+        <Description>Inserts a comment block for a variable describing the type of that variable, based on JS Doc.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+          <Literal>
+            <ID>parameterType</ID>
+            <ToolTip>Enter a datatype for this parameter.</ToolTip>
+            <Default>number</Default>
+          </Literal>
+        </Declarations>
+        <Code Language="JavaScript">
+<![CDATA[
+/** @type {$parameterType$} */ $end$
+]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

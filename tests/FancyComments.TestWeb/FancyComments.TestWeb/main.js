@@ -1,6 +1,1 @@
 ﻿
-/**
- * Description
- * Author: author 
- */
-    

@@ -1,0 +1,26 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <Header>
+    <Title>XML Doc comments for a property</Title>
+    <Author>Clyde D'Souza</Author>
+    <Shortcut>fc-xmldocvalue</Shortcut>
+    <Description>Inserts a <![CDATA[<value></value>]]> comment to provide an explanation for a property, XML Doc style.</Description>
+    <SnippetTypes>
+      <SnippetType>Expansion</SnippetType>
+    </SnippetTypes>
+  </Header>
+  <Snippet>
+    <Declarations>
+      <Literal>
+        <ID>valueExplanation</ID>
+        <ToolTip>Enter a suitable explanation for this property.</ToolTip>
+        <Default>Gets or sets the value of X.</Default>
+      </Literal>
+    </Declarations>
+    <Code Language="CSharp">
+      <![CDATA[
+/// <value>$valueExplanation$</value>
+$end$
+]]>
+    </Code>
+  </Snippet>
+</CodeSnippet>

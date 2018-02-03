@@ -1,0 +1,43 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <Header>
+    <Title>XML Doc comments for a method with parameters</Title>
+    <Author>Clyde D'Souza</Author>
+    <Shortcut>fc-xmldocpara</Shortcut>
+    <Description>Inserts <![CDATA[<summary></summary>]]> and <![CDATA[<param></param>]]> comments to provide an explanation for a method and the parameters, XML Doc style.</Description>
+    <SnippetTypes>
+      <SnippetType>Expansion</SnippetType>
+    </SnippetTypes>
+  </Header>
+  <Snippet>
+    <Declarations>
+      <Literal>
+        <ID>methodExplanation</ID>
+        <ToolTip>Enter a suitable explanation for this method.</ToolTip>
+        <Default>Returns the square of the number passed to the function.</Default>
+      </Literal>
+      <Literal>
+        <ID>parameterType</ID>
+        <ToolTip>Enter a datatype for this parameter.</ToolTip>
+        <Default>number</Default>
+      </Literal>
+      <Literal>
+        <ID>parameterName</ID>
+        <ToolTip>Enter a suitable name for this parameter.</ToolTip>
+        <Default>input</Default>
+      </Literal>
+      <Literal>
+        <ID>parameterExplanation</ID>
+        <ToolTip>Enter a suitable explanation for this parameter.</ToolTip>
+        <Default>Specifies the value to be calculated.</Default>
+      </Literal>
+    </Declarations>
+    <Code Language="JavaScript">
+      <![CDATA[
+/// <summary>$methodExplanation$</summary>
+/// <param name="$parameterName$" type="$parameterType$">$parameterExplanation$</param>
+/// <param name="$parameterName$" type="$parameterType$">$parameterExplanation$</param>
+$end$
+]]>
+    </Code>
+  </Snippet>
+</CodeSnippet>

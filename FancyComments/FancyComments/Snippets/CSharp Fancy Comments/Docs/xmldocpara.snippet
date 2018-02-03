@@ -1,0 +1,47 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <Header>
+    <Title>XML Doc comments for a method with parameters and a return value</Title>
+    <Author>Clyde D'Souza</Author>
+    <Shortcut>fc-xmldocpara</Shortcut>
+    <Description>Inserts <![CDATA[<summary></summary>]]>, <![CDATA[<param></param>]]> and <![CDATA[<returns></returns>]]> comments to provide an explanation for a method, the parameters and its return value, XML Doc style.</Description>
+    <SnippetTypes>
+      <SnippetType>Expansion</SnippetType>
+    </SnippetTypes>
+  </Header>
+  <Snippet>
+    <Declarations>
+      <Literal>
+        <ID>methodExplanation</ID>
+        <ToolTip>Enter a suitable explanation for this method.</ToolTip>
+        <Default>Calculates the square of a number and returns the result.</Default>
+      </Literal>
+      <Literal>
+        <ID>parameterName</ID>
+        <ToolTip>Enter a suitable name for this parameter.</ToolTip>
+        <Default>input</Default>
+      </Literal>
+      <Literal>
+        <ID>parameterExplanation</ID>
+        <ToolTip>Enter a suitable explanation for this parameter.</ToolTip>
+        <Default>The number whose value needs to be calculated.</Default>
+      </Literal>
+      <Literal>
+        <ID>returnExplanation</ID>
+        <ToolTip>Enter a suitable explanation for the return value.</ToolTip>
+        <Default>Returns the square of the value.</Default>
+      </Literal>
+    </Declarations>
+    <Code Language="CSharp">
+      <![CDATA[
+/// <summary>
+/// $methodExplanation$
+/// </summary>
+/// <param name="$parameterName$">$parameterExplanation$</param>
+/// <returns>
+/// $returnExplanation$
+/// </returns>
+$end$
+]]>
+    </Code>
+  </Snippet>
+</CodeSnippet>
