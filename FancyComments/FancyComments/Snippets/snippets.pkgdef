@@ -1,19 +1,19 @@
 ﻿; Languages: "Basic", "C/C++", "CSharp", "CSS", "HTML", "JavaScript", "SQL_SSDT", "XML"
 
 [$RootKey$\Languages\CodeExpansions\JavaScript\Paths]
-"JavaScript Fancy Comments"="$PackageFolder$\JavaScriptFancyComments"
+"JavaScript Fancy Comments"="$PackageFolder$\JavaScript Fancy Comments"
 
 [$RootKey$\Languages\CodeExpansions\HTML\Paths]
-"HTML Fancy Comments"="$PackageFolder$\HTMLFancyComments"
+"HTML Fancy Comments"="$PackageFolder$\HTML Fancy Comments"
 
 [$RootKey$\Languages\CodeExpansions\SQL_SSDT\Paths]
-"SQL Fancy Comments"="$PackageFolder$\SQLFancyComments"
+"SQL Fancy Comments"="$PackageFolder$\SQL Fancy Comments"
 
 [$RootKey$\Languages\CodeExpansions\CSS\Paths]
-"CSS Fancy Comments"="$PackageFolder$\CSSFancyComments"
+"CSS Fancy Comments"="$PackageFolder$\CSS Fancy Comments"
 
 [$RootKey$\Languages\CodeExpansions\XML\Paths]
-"XML Fancy Comments"="$PackageFolder$\XMLFancyComments"
+"XML Fancy Comments"="$PackageFolder$\XML Fancy Comments"
 
 [$RootKey$\Languages\CodeExpansions\CSharp\Paths]
-"CSharp Fancy Comments"="$PackageFolder$\CSharpFancyComments"
+"CSharp Fancy Comments"="$PackageFolder$\CSharp Fancy Comments"

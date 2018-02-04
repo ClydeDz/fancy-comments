@@ -87,563 +87,563 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Metadata\jssafe.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Metadata\jssafe.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\License\apache.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\License\apache.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Task List\bug.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Task List\bug.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\License\ccbync40.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\License\ccbync40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\License\ccbysa40.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\License\ccbysa40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\License\ccbynd40.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\License\ccbynd40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\License\copyright.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\License\copyright.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Task List\error.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Task List\error.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\License\ccby40.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\License\ccby40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\License\gnugplv3.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\License\gnugplv3.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Task List\hack.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Task List\hack.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Metadata\madewithlovein.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Metadata\madewithlovein.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Metadata\changelog.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Metadata\changelog.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Metadata\metasingle.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Metadata\metasingle.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Metadata\meta.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Metadata\meta.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Metadata\madewithloveby.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Metadata\madewithloveby.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Basics\steps.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Basics\steps.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Basics\ml.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Basics\ml.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Task List\note.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Task List\note.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Task List\review.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Task List\review.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Basics\sl.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Basics\sl.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Task List\todo.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Task List\todo.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Basics\ifcond.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Basics\ifcond.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Basics\ifnotie.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Basics\ifnotie.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Basics\ifgtie.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Basics\ifgtie.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\HTMLFancyComments\Basics\ifltie.snippet">
+    <Content Include="Snippets\HTML Fancy Comments\Basics\ifltie.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Metadata\metasingle.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Metadata\metasingle.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Metadata\changelog.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Metadata\changelog.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Metadata\madewithloveby.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Metadata\madewithloveby.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Metadata\madewithlovein.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Metadata\madewithlovein.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Metadata\meta.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Metadata\meta.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Task List\bug.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Task List\bug.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Task List\error.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Task List\error.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Task List\hack.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Task List\hack.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Task List\note.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Task List\note.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Task List\review.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Task List\review.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Task List\todo.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Task List\todo.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Basics\ml.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Basics\ml.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Basics\sl.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Basics\sl.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Basics\steps.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Basics\steps.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\License\apache.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\License\apache.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\License\ccby40.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\License\ccby40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\License\ccbync40.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\License\ccbync40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\License\ccbynd40.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\License\ccbynd40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\License\ccbysa40.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\License\ccbysa40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\License\copyright.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\License\copyright.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\License\gnugplv3.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\License\gnugplv3.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\Basics\ml.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\Basics\ml.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\Basics\sl.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\Basics\sl.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\Basics\steps.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\Basics\steps.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\License\apache.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\License\apache.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\License\ccby40.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\License\ccby40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\License\ccbync40.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\License\ccbync40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\License\ccbynd40.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\License\ccbynd40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\License\ccbysa40.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\License\ccbysa40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\License\copyright.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\License\copyright.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\License\gnugplv3.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\License\gnugplv3.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\Metadata\changelog.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\Metadata\changelog.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\Metadata\madewithloveby.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\Metadata\madewithloveby.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\Metadata\madewithlovein.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\Metadata\madewithlovein.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\Metadata\meta.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\Metadata\meta.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\Metadata\metasingle.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\Metadata\metasingle.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\Task List\bug.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\Task List\bug.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\Task List\error.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\Task List\error.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\Task List\hack.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\Task List\hack.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\Task List\note.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\Task List\note.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\Task List\review.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\Task List\review.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\SQLFancyComments\Task List\todo.snippet">
+    <Content Include="Snippets\SQL Fancy Comments\Task List\todo.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\Basics\ml.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\Basics\ml.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\Basics\sl.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\Basics\sl.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\Basics\steps.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\Basics\steps.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\License\apache.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\License\apache.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\License\ccby40.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\License\ccby40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\License\ccbync40.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\License\ccbync40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\License\ccbynd40.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\License\ccbynd40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\License\ccbysa40.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\License\ccbysa40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\License\copyright.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\License\copyright.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\License\gnugplv3.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\License\gnugplv3.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\Metadata\changelog.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\Metadata\changelog.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\Metadata\madewithloveby.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\Metadata\madewithloveby.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\Metadata\madewithlovein.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\Metadata\madewithlovein.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\Metadata\meta.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\Metadata\meta.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\Metadata\metasingle.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\Metadata\metasingle.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\Task List\bug.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\Task List\bug.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\Task List\error.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\Task List\error.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\Task List\hack.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\Task List\hack.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\Task List\note.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\Task List\note.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\Task List\review.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\Task List\review.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSSFancyComments\Task List\todo.snippet">
+    <Content Include="Snippets\CSS Fancy Comments\Task List\todo.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Basics\ml.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Basics\ml.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Basics\sl.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Basics\sl.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Basics\steps.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Basics\steps.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\License\apache.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\License\apache.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\License\ccby40.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\License\ccby40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\License\ccbync40.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\License\ccbync40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\License\ccbynd40.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\License\ccbynd40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\License\ccbysa40.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\License\ccbysa40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\License\copyright.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\License\copyright.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\License\gnugplv3.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\License\gnugplv3.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Metadata\changelog.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Metadata\changelog.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Metadata\madewithloveby.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Metadata\madewithloveby.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Metadata\madewithlovein.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Metadata\madewithlovein.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Metadata\meta.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Metadata\meta.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Metadata\metasingle.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Metadata\metasingle.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Task List\bug.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Task List\bug.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Task List\error.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Task List\error.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Task List\hack.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Task List\hack.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Task List\note.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Task List\note.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Task List\review.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Task List\review.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Task List\todo.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Task List\todo.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\Basics\ml.snippet">
+    <Content Include="Snippets\XML Fancy Comments\Basics\ml.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\Basics\sl.snippet">
+    <Content Include="Snippets\XML Fancy Comments\Basics\sl.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\Basics\steps.snippet">
+    <Content Include="Snippets\XML Fancy Comments\Basics\steps.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\License\apache.snippet">
+    <Content Include="Snippets\XML Fancy Comments\License\apache.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\License\ccby40.snippet">
+    <Content Include="Snippets\XML Fancy Comments\License\ccby40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\License\ccbync40.snippet">
+    <Content Include="Snippets\XML Fancy Comments\License\ccbync40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\License\ccbynd40.snippet">
+    <Content Include="Snippets\XML Fancy Comments\License\ccbynd40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\License\ccbysa40.snippet">
+    <Content Include="Snippets\XML Fancy Comments\License\ccbysa40.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\License\copyright.snippet">
+    <Content Include="Snippets\XML Fancy Comments\License\copyright.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\License\gnugplv3.snippet">
+    <Content Include="Snippets\XML Fancy Comments\License\gnugplv3.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\Metadata\changelog.snippet">
+    <Content Include="Snippets\XML Fancy Comments\Metadata\changelog.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\Metadata\madewithloveby.snippet">
+    <Content Include="Snippets\XML Fancy Comments\Metadata\madewithloveby.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\Metadata\madewithlovein.snippet">
+    <Content Include="Snippets\XML Fancy Comments\Metadata\madewithlovein.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\Metadata\meta.snippet">
+    <Content Include="Snippets\XML Fancy Comments\Metadata\meta.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\Metadata\metasingle.snippet">
+    <Content Include="Snippets\XML Fancy Comments\Metadata\metasingle.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\Task List\bug.snippet">
+    <Content Include="Snippets\XML Fancy Comments\Task List\bug.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\Task List\error.snippet">
+    <Content Include="Snippets\XML Fancy Comments\Task List\error.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\Task List\hack.snippet">
+    <Content Include="Snippets\XML Fancy Comments\Task List\hack.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\Task List\note.snippet">
+    <Content Include="Snippets\XML Fancy Comments\Task List\note.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\Task List\review.snippet">
+    <Content Include="Snippets\XML Fancy Comments\Task List\review.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\XMLFancyComments\Task List\todo.snippet">
+    <Content Include="Snippets\XML Fancy Comments\Task List\todo.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Docs\jsdocsimple.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Docs\jsdocsimple.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Docs\jsdocreturns.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Docs\jsdocreturns.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Docs\jsdoctype.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Docs\jsdoctype.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Docs\xmldocsimple.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Docs\xmldocsimple.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\JavaScriptFancyComments\Docs\xmldocpara.snippet">
+    <Content Include="Snippets\JavaScript Fancy Comments\Docs\xmldocpara.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Docs\xmldocpara.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Docs\xmldocpara.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Docs\xmldocsimple.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Docs\xmldocsimple.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Docs\xmldocvalue.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Docs\xmldocvalue.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Snippets\CSharpFancyComments\Docs\xmldoccode.snippet">
+    <Content Include="Snippets\CSharp Fancy Comments\Docs\xmldoccode.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
