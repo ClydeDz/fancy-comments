@@ -1,0 +1,25 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Add an ERROR item</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>htmlerror</Shortcut>
+        <Description>Inserts a single ERROR item in the page which can then be seen in the task list.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>errorDescription</ID>
+                <ToolTip>Enter a suitable description for this ERROR item.</ToolTip>
+                <Default>Found this while refactoring.</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="html">
+<![CDATA[
+<!-- ERROR: $errorDescription$ -->
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

@@ -1,0 +1,27 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Safe JavaScript</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>jssafejs</Shortcut>
+        <Description>Inserts a special comment block within which you may write your JavaScript code if you're concerned about old browsers. Although, these days most modern browsers understand JavaScript.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>jsPlaceholder</ID>
+                <ToolTip>Add your JavaScript code here.</ToolTip>
+                <Default>var x = 2</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="JavaScript">
+            <![CDATA[
+<!--
+$jsPlaceholder$
+//-->
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

@@ -1,0 +1,45 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Copyright disclaimer</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>htmlcopy</Shortcut>
+        <Description>Inserts a generic copyright disclaimer.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>companyOrName</ID>
+                <ToolTip>Enter your company name or author's name.</ToolTip>
+                <Default>Contosso Inc.</Default>
+            </Literal>
+            <Literal>
+                <ID>author</ID>
+                <ToolTip>Enter the author's name.</ToolTip>
+                <Default>John Smith</Default>
+            </Literal>
+            <Literal>
+                <ID>email</ID>
+                <ToolTip>Enter the author's email address.</ToolTip>
+                <Default>john.smith@contosso.com</Default>
+            </Literal>
+            <Literal>
+                <ID>date</ID>
+                <ToolTip>Enter the author's name.</ToolTip>
+                <Default>January 1, 2018</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="html">
+<![CDATA[
+<!--
+Copyright (C) $companyOrName$ - All Rights Reserved
+Unauthorized copying of this file, via any medium is strictly prohibited
+Proprietary and confidential
+Written by $author$ <$email$>, $date$
+-->
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

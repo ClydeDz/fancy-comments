@@ -1,0 +1,25 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Add a TODO item</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>cstodo</Shortcut>
+        <Description>Inserts a single TODO item in the page which can then be seen in the task list.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>todoDescription</ID>
+                <ToolTip>Enter a suitable description for the TODO item.</ToolTip>
+                <Default>Complete this block before end of day.</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="CSharp">
+<![CDATA[
+// TODO: $todoDescription$ 
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

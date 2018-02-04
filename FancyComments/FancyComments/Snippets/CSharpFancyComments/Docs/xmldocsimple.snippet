@@ -1,0 +1,28 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <Header>
+    <Title>XML Doc comments for a method</Title>
+    <Author>Clyde D'Souza</Author>
+    <Shortcut>csxmldocsimple</Shortcut>
+    <Description>Inserts a summary comment to provide an explanation for a method, XML Doc style.</Description>
+    <SnippetTypes>
+      <SnippetType>Expansion</SnippetType>
+    </SnippetTypes>
+  </Header>
+  <Snippet>
+    <Declarations>
+      <Literal>
+        <ID>methodExplanation</ID>
+        <ToolTip>Enter a suitable explanation for this method.</ToolTip>
+        <Default>Prints a greeting on the console.</Default>
+      </Literal>
+    </Declarations>
+    <Code Language="CSharp">
+      <![CDATA[
+/// <summary>
+/// $methodExplanation$
+/// </summary>
+$end$
+]]>
+    </Code>
+  </Snippet>
+</CodeSnippet>

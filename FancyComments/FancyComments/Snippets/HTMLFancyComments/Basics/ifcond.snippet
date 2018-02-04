@@ -1,0 +1,32 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>If block for IE browsers</Title>
+        <Author>Clyde D'Souza</Author>
+        <Shortcut>htmlifie</Shortcut>
+        <Description>Inserts a IF code block in comments to execute a particular code only for a specified IE browser version.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+          <Literal>
+            <ID>ieVersion</ID>
+            <ToolTip>Enter the required IE version.</ToolTip>
+            <Default>8</Default>
+          </Literal>
+            <Literal>
+                <ID>bodyToExecute</ID>
+                <ToolTip>Enter the required content if the condition is satified.</ToolTip>
+                <Default>According to the conditional comment, this is IE</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="html">
+<![CDATA[
+<!--[if IE $ieVersion$]>
+$bodyToExecute$
+<![endif]-->
+$end$]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

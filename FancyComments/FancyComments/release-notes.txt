@@ -1,0 +1,8 @@
+Fancy Comments
+******************
+
+# Version 1.0.0
+Contains comment snippet packs to include in your file.
+
+Fancy Comments Copyright 2018 Clyde D'Souza
+
