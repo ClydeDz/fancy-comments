@@ -260,3 +260,5 @@ paket-files/
 __pycache__/
 *.pyc
 /docs/FancyComments.Web/App_Data/PublishProfiles
+/docs/FancyComments.Web/App_Data/files
+/docs/App_Data/files

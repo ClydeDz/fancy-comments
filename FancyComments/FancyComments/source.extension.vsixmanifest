@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="044a662b-9e91-4d4a-954b-bdb7334954d6" Version="0.0.8" Language="en-US" Publisher="Clyde D'Souza" />
+        <Identity Id="044a662b-9e91-4d4a-954b-bdb7334954d6" Version="0.0.9" Language="en-US" Publisher="Clyde D'Souza" />
         <DisplayName>Fancy Comments</DisplayName>
-        <Description xml:space="preserve">A snippet pack for comments in different languages.</Description>
+        <Description xml:space="preserve">A snippet pack for use-case specific comments, supported for HTML, CSS, JavaScript, C#, SQL and XML.</Description>
         <License>license.txt</License>
         <ReleaseNotes>release-notes.txt</ReleaseNotes>
         <Icon>fancycomments-icon.png</Icon>

@@ -1,7 +1,7 @@
 ﻿@import url("https://fonts.googleapis.com/css?family=Bungee|Montserrat");
 header {
   min-height: 450px;
-  background-image: url("../../images/banners/vsix-ext-familydesigns.png");
+  background-image: url("https://raw.githubusercontent.com/ClydeDz/fancy-comments/master/docs/images/banners/vsix-ext-familydesigns.png");
   background-repeat: repeat;
   background-size: contain; }
   header div div.website-logo {
