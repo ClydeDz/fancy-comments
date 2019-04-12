@@ -74,6 +74,7 @@
     <Content Include="packages.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="extension.manifest.json" />
     <None Include="Resources\releasenotes.md" />
     <None Include="Resources\license.md" />
     <Content Include="license.txt">
