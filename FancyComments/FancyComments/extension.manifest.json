@@ -1,0 +1,16 @@
+﻿{
+  "$schema": "http://json.schemastore.org/vsix-publish",
+  "categories": [ "coding", "web", "documentation" ],
+  "identity": {
+    "internalName": "FancyComments",
+    "tags": [ "snippets", "snippet pack", "html", "css", "javascript", "sql", "c#", "csharp", "xml", "visual studio 2017", "visual studio 2019", "visual studio", "code snippet manager", "vsix", "sass", "open source", "scss", "fancy comments", "comments" ],
+    "displayName": "Fancy Comments",
+    "icon": "fancycomments-icon.png"
+  },
+  "overview": "readme.md",
+  "priceCategory": "free",
+  "publisher": "clydedsouza",
+  "private": false,
+  "qna": true,
+  "repo": "https://github.com/ClydeDz/fancy-comments/"
+}
